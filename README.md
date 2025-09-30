@@ -8,6 +8,4 @@ The project is intentionally simple and does not rely on any external libraries,
 
 Overall, this chatbot project demonstrates how to simulate human-like conversation using Python's basic control structures, and it offers a practical entry point into the world of conversational AI.
 
-Let me know if you want this saved into a file or converted to PDF/Markdown.
 
-Get smarter responses
